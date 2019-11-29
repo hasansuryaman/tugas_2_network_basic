@@ -1,6 +1,6 @@
 # Tugas 2 Networking Basic
 
-### Oktet pertama yang diawali dengan 128 hingga 191 adalah merupakan pembagian kelas ?
+### 1. Oktet pertama yang diawali dengan 128 hingga 191 adalah merupakan pembagian kelas ?
 
 <br>
 
