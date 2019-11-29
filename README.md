@@ -1,6 +1,7 @@
 # Tugas 2 Networking Basic
 
 ### 1. Oktet pertama yang diawali dengan 128 hingga 191 adalah merupakan pembagian kelas ?
+<p align="center"><img src="ipv4_class.jpg" alt="IPv4 Class" width="500"/></div></p>
 
 <br>
 
