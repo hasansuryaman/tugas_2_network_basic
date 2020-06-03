@@ -10,7 +10,7 @@
 <br>
 
 ### 3. IP Address 127.0.0.1 merupakan bentuk dari ?
-**Alamat IP Kelas A** yang ditugaskan sebagai fungsi **loopback**, yaitu, datagram yang dikirim oleh protokol tingkat yang lebih tinggi ke alamat jaringan 127 harus loop kembali ke dalam host. Tidak ada datagram yang "dikirim" ke alamat jaringan yang akan pernah muncul di jaringan mana pun. 
+**Alamat IP Kelas A** yang ditugaskan sebagai fungsi **loopback**, yaitu, datagram yang dikirim oleh protokol tingkat yang lebih tinggi ke alamat jaringan 127 harus loop kembali ke dalam host. Tidak ada datagram yang "dikirim" ke alamat jaringan yang akan pernah muncul di jaringan mana pun. ~ [rfc990](https://github.com/hasansuryaman/tugas_2_networking_basic/blob/master/rfc990.txt)
 <br>
 
 ### 4. CIDR dari Subnet Mask 255.255.0.0 adalah ?
