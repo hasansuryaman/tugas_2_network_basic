@@ -10,7 +10,7 @@
 <br>
 
 ### 3. IP Address 127.0.0.1 merupakan bentuk dari ?
-Kelas A	1–127	0xxx xxxx	Alamat unicast untuk jaringan skala besar
+**Alamat IP Kelas A** yang ditugaskan sebagai fungsi **loopback**, yaitu, datagram yang dikirim oleh protokol tingkat yang lebih tinggi ke alamat jaringan 127 harus loop kembali ke dalam host. Tidak ada datagram yang "dikirim" ke alamat jaringan yang akan pernah muncul di jaringan mana pun. 
 <br>
 
 ### 4. CIDR dari Subnet Mask 255.255.0.0 adalah ?
