@@ -1,7 +1,7 @@
 # Tugas 2 Networking Basic
 
 ### 1. Oktet pertama yang diawali dengan 128 hingga 191 adalah merupakan pembagian kelas ?
-<p align="center"><img src="ipv4_class.jpg" alt="IPv4 Class" width="500"/></div></p>
+**Alamat IP Kelas B**, Okter Pertama Desimal 128–191, Okter Pertama Biner	10xx xxxx, Alamat unicast untuk jaringan skala menengah hingga skala besar
 
 <br>
 
@@ -10,7 +10,7 @@
 <br>
 
 ### 3. IP Address 127.0.0.1 merupakan bentuk dari ?
-
+Kelas A	1–127	0xxx xxxx	Alamat unicast untuk jaringan skala besar
 <br>
 
 ### 4. CIDR dari Subnet Mask 255.255.0.0 adalah ?
