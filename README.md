@@ -8,7 +8,7 @@
 ### 2. Subnet Mask dari CIDR /28 adalah ? 
 255.255.255.240	.
 
-<p align="center"><img src="images/IP_subnetting.png" alt="IP Subnetting" width="350"/></div></p>
+<p align="center"><img src="images/IP_Subnetting.png" alt="IP Subnetting" width="620"/></div></p>
 
 <br>
 
